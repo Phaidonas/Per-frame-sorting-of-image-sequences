@@ -2,6 +2,8 @@
 Sort images sequence by number of frames, creating a flickering effect
 
 # TODO
-# fix the video export
-# basic ui
-# maybe arrange different frame frequency in a timeline, gradient logic
+<ul>
+  <li>fix the video export</li>
+  <li>basic ui</li>
+  <li>maybe arrange different frame frequency in a timeline, gradient logic</li>
+</ul>
